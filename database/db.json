@@ -1,0 +1,35 @@
+{
+  "product": [
+    {
+      "id": "fc63",
+      "product_name": "WATCH",
+      "product_price": "1600",
+      "product_color": "blue",
+      "description": "Smart watch",
+      "Description": "name"
+    },
+    {
+      "id": "1ab7",
+      "product_name": "mobile",
+      "product_price": "250000",
+      "product_color": "blue",
+      "description": "mi"
+    },
+    {
+      "id": "9f51",
+      "product_name": "mobile",
+      "product_price": "20000",
+      "product_color": "blue",
+      "description": "moto"
+    },
+    {
+      "id": "6bf3",
+      "product_name": "Calculator",
+      "product_price": "1500",
+      "product_color": "blue",
+      "description": "calcuklator",
+      "Description": " cac"
+    }
+  ],
+  "auth": []
+}
